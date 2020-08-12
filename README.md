@@ -1,6 +1,7 @@
 # dnpicture
+## 懂你找图小程序
 
-## Project setup
+## 1. Project setup
 ```
 npm install
 ```
