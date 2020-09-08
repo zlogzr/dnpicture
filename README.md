@@ -18,6 +18,7 @@ npm run dev:mp-weixin
 4. 懂你找图接口：https://www.showdoc.cc/414855720281749?page_id=3678621017219602
 
 ### 4. 项目图片预览
+![](https://gitee.com/zlogzr/imgs/blob/master/dnpicture/1.png)
 
 
 
