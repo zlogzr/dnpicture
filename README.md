@@ -19,6 +19,11 @@ npm run dev:mp-weixin
 
 ### 4. 项目图片预览
 ![](https://gitee.com/zlogzr/imgs/raw/master/dnpicture/1.png)
+![](https://gitee.com/zlogzr/imgs/raw/master/dnpicture/2.png)
+![](https://gitee.com/zlogzr/imgs/raw/master/dnpicture/3.png)
+![](https://gitee.com/zlogzr/imgs/raw/master/dnpicture/4.png)
+![](https://gitee.com/zlogzr/imgs/raw/master/dnpicture/5.png)
+![](https://gitee.com/zlogzr/imgs/raw/master/dnpicture/6.png)
 
 
 
